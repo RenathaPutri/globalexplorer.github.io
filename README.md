@@ -15,5 +15,5 @@ A **pure HTML, CSS, and JavaScript** website developed as part of an internship 
 ## How to Run
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/GlobalExplorer-Web.git
+   git clone https://github.com/RenathaPutri/GlobalExplorer-Web.git
 2. Open the index.html file in a browser.
